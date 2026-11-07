@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fluxnative": {
+      "type": "http",
+      "url": "https://mcp.fluxnative.app/mcp"
+    }
+  }
+}

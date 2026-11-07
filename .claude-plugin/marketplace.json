@@ -1,0 +1,16 @@
+{
+  "name": "fluxnative",
+  "description": "The FluxNative plugin for Claude Code, claude.ai and Cowork.",
+  "owner": {
+    "name": "InspireUI",
+    "email": "support@fluxnative.app",
+    "url": "https://fluxnative.app"
+  },
+  "plugins": [
+    {
+      "name": "fluxnative",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}
